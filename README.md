@@ -100,8 +100,8 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ikaro-developer&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ikaro-developer&layout=compact&theme=tokyonight"/>
+![GitHub followers](https://img.shields.io/github/followers/ikaro-developer)
+![GitHub stars](https://img.shields.io/github/stars/ikaro-developer?style=social)
 </p>
 
 ---
