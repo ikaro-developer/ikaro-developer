@@ -100,8 +100,8 @@
 ## 📈 Estatísticas
 
 <p align="center">
-![GitHub followers](https://img.shields.io/github/followers/ikaro-developer)
-![GitHub stars](https://img.shields.io/github/stars/ikaro-developer?style=social)
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ikaro-developer&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ikaro-developer&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
